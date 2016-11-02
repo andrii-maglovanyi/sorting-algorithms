@@ -21,5 +21,3 @@ function renderColumns(array, elementId) {
 
   document.getElementById(elementId).appendChild(fragment);
 }
-
-var array = generateArrayOfRandomNumbers(150);
