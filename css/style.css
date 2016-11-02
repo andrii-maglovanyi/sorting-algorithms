@@ -1,0 +1,12 @@
+#quick-sort, #insertion-sort {
+  width: 1050px;
+  height: 100px;
+  display: flex;
+  align-items: flex-end;
+}
+
+#quick-sort > div, #insertion-sort > div {
+  background-color: #ccc;
+  width: 3px;
+  margin: 0 2px;
+}
